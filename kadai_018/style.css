@@ -9,7 +9,7 @@
   background-color: #ffd9df;
   text-align: center;
   width: 20%;
-  margin: 20 auto;
+  margin: 20px auto;
 }
 
 #middle {
@@ -50,8 +50,7 @@
   background-color: #87ceeb;
   text-align: center;
   margin: 20px auto ;
-  position: relative;
-}
+ 
 #bottom-child01 {
   width: 400px;
   height: 100px;
@@ -61,15 +60,13 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
-  top: 100px;
+  position: relative;
   left: 200px;
 }
 #bottom-child03 {
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
-  top: 200px;
+  position: relative;
   left: 400px;
 }
