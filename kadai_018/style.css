@@ -9,7 +9,6 @@
   background-color: #ffd9df;
   text-align: center;
   width: 20%;
-  margin: 20px auto;
 }
 
 #middle {
@@ -49,8 +48,8 @@
   height: 300px;
   background-color: #87ceeb;
   text-align: center;
-  margin: 20px auto ;
- 
+  margin: auto ;
+ }
 #bottom-child01 {
   width: 400px;
   height: 100px;
