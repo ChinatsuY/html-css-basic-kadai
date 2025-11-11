@@ -10,7 +10,7 @@ p,a {
 header {
   background-color: rgb(244, 79, 79);
   text-align: center;
-  font-color:rgb(255, 255, 255);
+  color:rgb(255, 255, 255);
   margin-bottom: 20px;
 }
 
@@ -36,7 +36,7 @@ h2 {
   margin: 20px 0px;
 }
 
-img {
+.contents img {
   width: 70%;
   margin: 10px 0px;
 }
